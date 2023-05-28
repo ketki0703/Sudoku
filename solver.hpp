@@ -1,9 +1,4 @@
-/*
-Matt Olson
-Alex Izydorczyk
 
-Implement Board class to hold state of sudoku game
-*/
 #pragma once
 #include <cassert>
 #include <cstdlib>
