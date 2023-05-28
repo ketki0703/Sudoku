@@ -1,9 +1,4 @@
-/*
-Matt Olson
-Alex Izydorczyk
 
-Implement unit testing functions
-*/
 
 #include <iostream>
 #include <regex>
