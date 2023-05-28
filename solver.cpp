@@ -1,9 +1,4 @@
-/*
-Matt Olson
-Alex Izydorczyk
 
-Implementation of backtracking algorithm and other game-play mechanics
-*/
 
 #include "solver.hpp"
 #include <iostream>
